@@ -1,0 +1,27 @@
+footer {
+  position: relative;
+  width: 1007px;
+  height: 82px;
+  margin: 0px auto;
+}
+
+footer * {
+  font-size: 14px;
+}
+
+footer a {
+  top: 30px;
+  right: 0px;
+  position: absolute;
+  color: black;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: aqua;
+}
+
+footer p {
+  position: absolute;
+  top: 30px;
+}

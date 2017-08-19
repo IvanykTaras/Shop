@@ -1,0 +1,90 @@
+.contend {
+  position: relative;
+  width: 1007px;
+  height: 965px;
+  background-color: white;
+  margin: 0px auto;
+  margin-top: 15px;
+}
+
+.contend p {
+  color: lightgreen;
+  font-size: 18px;
+  margin: -35px 0px 0px 40px;
+}
+
+.contend table {
+  width: 630px;
+  height: 531px;
+  left: 34px;
+  top: 269px;
+  position: absolute;
+}
+
+.pagination {
+  list-style-type: none;
+  position: absolute;
+  margin: 0px;
+  left: 249px;
+  top: 890px;
+}
+
+.pagination li {
+  display: inline;
+  padding: 3px 11px;
+}
+
+.pagination li:hover {
+  color: white;
+  border: 0px solid #669933;
+  border-radius: 100%;
+  background-color: #669933;
+}
+
+.pagination li a {
+  color: black;
+  text-decoration: none;
+}
+
+.pagination li a:hover {
+  color: white;
+}
+
+.contends {
+  border-bottom: 1px solid gainsboro;
+  border-right: 1px solid #f1f1f1;
+  width: 194px;
+  height: 155px;
+  position: absolute;
+}
+
+.contends .product {
+  border: 1px solid white;
+  width: 192px;
+  height: 25px;
+  position: absolute;
+  bottom: 0px;
+  background-color: #e8e8e8;
+}
+
+.contends .product .name {
+  font-size: 14px;
+  color: #999999;
+  margin: 5px 60px 0px 10px;
+  float: left;
+}
+
+.contends .product .price {
+  font-size: 14px;
+  color: #ff3366;
+  margin: 5px 0px 0px 0px;
+  float: left;
+}
+
+.contends img {
+  margin: 13px 19px;
+}
+
+.slider {
+  margin: 34px 0px 0px 10px;
+}
